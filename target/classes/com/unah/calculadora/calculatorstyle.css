@@ -1,0 +1,19 @@
+.target{
+    -fx-background-color: linear-gradient(to bottom right, #FF7F50, #6A5ACD);
+    -fx-background-radius: 20px;
+    -fx-effect:dropshadow(three-pass-box,rgba(0,0,0,1),20,0,0,0);
+    -fx-border-color:black;
+}
+.pantalla{
+   -fx-background-color: #00000025;
+}
+
+.buttoms{
+    -fx-background-color: #00000025;
+    
+    -fx-background-radius: 50px; 
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.8), 10, 0, 0, 0);
+}
+.pulsar:hover{
+    -fx-background-color:black;
+}
